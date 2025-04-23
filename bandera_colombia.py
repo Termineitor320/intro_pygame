@@ -13,7 +13,7 @@ ventana = pygame.display.set_mode((400,400))
 
 
 # definnimmos un color 
-amarillo = (255, 251, 0)
+amarillo = (255, 250, 0)
 azul = (0, 0, 255)
 rojo = (255, 0, 0)
 
